@@ -1,0 +1,12 @@
+{
+    "port": 2345,
+    "start_message": "The server has started.",
+    "settings": {
+        "get": {
+            "_config": true
+        },
+        "post": {
+            "_config": true
+        }
+    }
+}
